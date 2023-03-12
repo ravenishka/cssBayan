@@ -1,0 +1,41 @@
+* {
+    background-color: rgb(255, 253, 162);
+}
+
+.name {
+    color: black;
+    text-align: center;
+    font-size: 32px;
+    font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.name:hover {
+    color:blue;
+}
+
+.mem {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-family: 'Montserrat Alternates', sans-serif;
+    
+}
+
+p {
+    display: flex;
+    flex-direction: column;
+}
+
+hr {
+    height: 5px;
+    width: 150px;
+    background-color: rgb(236, 236, 147);
+    border: none;
+    
+}
+
+.image {
+    display: block;
+    margin: 0 auto;
+
+}
